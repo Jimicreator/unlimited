@@ -89,8 +89,8 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
+git clone https://github.com/Jimicreator/unlimited
+cd Unlimited
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
@@ -101,9 +101,9 @@ python3 bot.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From my.telegram.org (or @UseTGXBot)
+* API_ID        - From my.telegram.org (or Jimi Api Bot)
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org (or Jimi Api Bot)
 
 * AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
 
@@ -130,18 +130,3 @@ python3 bot.py
 * DISCONNECT_COMMAND  -  default will be 'disconnect'
 
 EG;  
-![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
-
-## Credits
-
-<p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
-    <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://docs.mongodb.com">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-</p>
